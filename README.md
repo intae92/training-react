@@ -1,3 +1,3 @@
 # training-react
 
-redux 학습
+redux 학습!
